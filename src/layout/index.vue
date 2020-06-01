@@ -9,9 +9,6 @@
       <app-main />
     </div>
   </div>
-  <div>
-    <h2>222</h2>
-  </div>
 </template>
 
 <script>
